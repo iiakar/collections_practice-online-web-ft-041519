@@ -1,5 +1,5 @@
 def sort_array_asc 
-  sort_array_asc.ascending ()
+  sort_array_asc = 
 
 
 end 
