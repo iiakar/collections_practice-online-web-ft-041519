@@ -1,5 +1,9 @@
 def sort_array_asc 
-  sort_array_asc = [25,7,1]
+  a = [25,7,1]
+
+ sorted_ary = a.sort_by { |number| -number }
+ # or 
+ sorted_ary = a.sort.reverse
 
 
 end 
