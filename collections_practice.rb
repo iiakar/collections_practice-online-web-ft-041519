@@ -1,5 +1,5 @@
 def sort_array_asc 
-  sort_array_asc = [1,7,25]
+  sort_array_asc = [25,7,1]
 
 
 end 
